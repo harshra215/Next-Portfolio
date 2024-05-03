@@ -45,7 +45,7 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Quantitative Developer with experience in Website,
+          I'm a Quantitative Developer with experience in Website,
           Mobile, and Software development. Check out my projects and skills.
         </motion.p>
 
